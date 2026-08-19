@@ -56,6 +56,20 @@ Currently saving up for a reliable development setup to keep building and mainta
 
 <br />
 
+## Community Contributions
+
+<table>
+  <tr>
+    <td width="80"><img src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg" width="60" alt="Aves Gallery logo" /></td>
+    <td>
+      <b><a href="https://github.com/deckerst/aves">Aves Gallery</a></b><br />
+      Contributed Turkish localization for this open-source Android media gallery app.
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
 
 ## Support My Open-Source Journey
