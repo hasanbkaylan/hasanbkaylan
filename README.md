@@ -1,83 +1,123 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Hasan+Berat+Kaylan;Independent+Open-Source+Developer;Privacy-First+%26+Local-First+Apps;Fedora+KDE+Enthusiast" alt="Typing SVG" />
+<img src="assets/banner.svg" alt="Hasan Berat Kaylan — Independent Open-Source Developer" width="100%" />
 
 <br />
 
-<a href="https://buymeacoffee.com/hasanbkaylan" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-<img src="https://img.shields.io/badge/Location-Mersin%2C%20T%C3%BCrkiye-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/OS-Fedora%20KDE-blue?style=for-the-badge&logo=fedora&logoColor=white" alt="OS" />
+<a href="#projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#principles">Principles</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#tech-stack">Tech Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#contributions">Contributions</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#support">Support</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Mersin,%20T%C3%BCrkiye-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Mersin, Türkiye" />
+<img src="https://img.shields.io/badge/Fedora%20KDE-0F172A?style=flat-square&logo=fedora&logoColor=white" alt="OS: Fedora KDE" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-0F172A?style=flat-square&logo=github&logoColor=white" alt="Open to collaboration" />
 
 </div>
 
 <br />
 
-## About Me
+## About
 
-Independent open-source developer focused on building local-first, privacy-respecting Android applications and web platforms — no trackers, no ads.
-
-<details>
-<summary><b>Read My Story & Journey</b></summary>
-<br>
-
-For the past few years, I've been developing software against all odds—juggling code between a faulty PC with motherboard issues and my phone.
-
-During a recent repair attempt, I lost almost all of my childhood photo memories. That loss reinforced my drive to build local-first, privacy-focused software where users truly own their data without relying on central servers or cloud platforms.
-
-Currently saving up for a reliable development setup to keep building and maintaining open-source tools smoothly!
-
-</details>
+I build local-first, privacy-respecting Android applications and web platforms. My software has no trackers, no ads, and no dependency on someone else's servers: your data stays on your device and under your control.
 
 <br />
 
-## Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/P2P_%26_Cryptography-00599C?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="P2P & Cryptography" />
-</p>
-
-<br />
-
-## Featured Projects
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 📍 **Crossed** | Offline, P2P location intersection app using local EXIF data & SHA-256 cryptographic hashing. | `Android` `Kotlin` `P2P` | 🛠️ In Development |
-| 🎵 **BridgeMusic** | Seamless playlist transfer tool across music streaming platforms. | `Android` `Web` | 🛠️ In Development |
-| 🌐 **Localization** | Helping localize popular open-source software into Turkish. | `Translation` `Open-Source` | 🔄 Ongoing |
-
-<br />
-
-## Community Contributions
+## Principles
 
 <table>
   <tr>
-    <td width="80"><img src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg" width="60" alt="Aves Gallery logo" /></td>
-    <td>
-      <b><a href="https://github.com/deckerst/aves">Aves Gallery</a></b><br />
-      Contributed Turkish localization for this open-source Android media gallery app.
+    <td width="33%" valign="top">
+      <b>Local-first</b><br />
+      Apps should work fully offline. Data lives on the device, not on a central server.
+    </td>
+    <td width="33%" valign="top">
+      <b>Privacy by design</b><br />
+      No trackers, no ads, no analytics. Cryptography is used to protect people, not to profile them.
+    </td>
+    <td width="33%" valign="top">
+      <b>Open source</b><br />
+      Code is public and auditable, so trust comes from transparency rather than promises.
     </td>
   </tr>
 </table>
 
 <br />
 
+## Projects
+
+| Project | Description | Stack | Status |
+| :-- | :-- | :-- | :-- |
+| **Crossed** | Offline, peer-to-peer app that finds location intersections using on-device EXIF data and SHA-256 hashing. | Android · Kotlin · P2P | In development |
+| **BridgeMusic** | Playlist transfer between music streaming platforms. | Android · Web | In development |
+| **Localization** | Turkish localization for popular open-source software. | Translation | Ongoing |
+
+<br />
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="140"><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+      <img src="https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems &amp; Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/badge/Fedora-1E293B?style=flat-square&logo=fedora&logoColor=51A2DA" alt="Fedora" />
+      <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Focus areas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/P2P%20Networking-1E293B?style=flat-square" alt="P2P networking" />
+      <img src="https://img.shields.io/badge/Applied%20Cryptography-1E293B?style=flat-square" alt="Applied cryptography" />
+      <img src="https://img.shields.io/badge/Privacy%20Engineering-1E293B?style=flat-square" alt="Privacy engineering" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## Contributions
+
+- **[Aves Gallery](https://github.com/deckerst/aves)** — Turkish localization for this open-source Android gallery and metadata explorer.
+
+<br />
+
+## Background
+
+<details>
+<summary><b>Why local-first?</b></summary>
+<br />
+
+For the past few years I've developed software on limited hardware, moving between a PC with motherboard problems and my phone.
+
+During a repair attempt I lost nearly all of my childhood photos. That experience made the case for local-first software personal: people should truly own their data, without depending on a central server or a cloud platform that can disappear.
+
+I'm currently saving up for a reliable development setup so I can keep building and maintaining open-source tools without interruption.
+
+</details>
+
+<br />
+
 <div align="center">
 
-## Support My Open-Source Journey
+## Support
 
-If you find my privacy-focused projects useful, consider supporting my work.
+Everything I publish is free and open source. If my work is useful to you, you can help fund the next tool.
 
-<a href="https://buymeacoffee.com/hasanbkaylan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+<a href="https://buymeacoffee.com/hasanbkaylan">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
 </a>
+
+<br /><br />
+
+<sub>Privacy-first · Local-first · No trackers, no ads</sub>
 
 </div>
