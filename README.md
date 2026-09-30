@@ -24,69 +24,58 @@ I build local-first, privacy-respecting Android applications and web platforms. 
 
 ## Principles
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Local-first</b><br />
-      Apps should work fully offline. Data lives on the device, not on a central server.
-    </td>
-    <td width="33%" valign="top">
-      <b>Privacy by design</b><br />
-      No trackers, no ads, no analytics. Cryptography is used to protect people, not to profile them.
-    </td>
-    <td width="33%" valign="top">
-      <b>Open source</b><br />
-      Code is public and auditable, so trust comes from transparency rather than promises.
-    </td>
-  </tr>
-</table>
+- **Local-first:** apps work fully offline, and data lives on the device, not on a central server.
+- **Privacy by design:** no trackers, no ads, no analytics. Cryptography protects people instead of profiling them.
+- **Open source:** code is public and auditable, so trust comes from transparency rather than promises.
 
 <br />
 
 ## Projects
 
-| Project | Description | Stack | Status |
-| :-- | :-- | :-- | :-- |
-| **Crossed** | Offline, peer-to-peer app that finds location intersections using on-device EXIF data and SHA-256 hashing. | Android · Kotlin · P2P | In development |
-| **BridgeMusic** | Playlist transfer between music streaming platforms. | Android · Web | In development |
-| **Localization** | Turkish localization for popular open-source software. | Translation | Ongoing |
+**Crossed** &nbsp;<img src="https://img.shields.io/badge/In%20development-F59E0B?style=flat-square" alt="In development" /><br />
+Offline, peer-to-peer app that finds location intersections using on-device EXIF data and SHA-256 hashing.<br />
+`Android` `Kotlin` `P2P`
+
+<br />
+
+**BridgeMusic** &nbsp;<img src="https://img.shields.io/badge/In%20development-F59E0B?style=flat-square" alt="In development" /><br />
+Playlist transfer between music streaming platforms.<br />
+`Android` `Web`
+
+<br />
+
+**Localization** &nbsp;<img src="https://img.shields.io/badge/Ongoing-38BDF8?style=flat-square" alt="Ongoing" /><br />
+Turkish localization for popular open-source software.<br />
+`Translation` `Open source`
 
 <br />
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="140"><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
-      <img src="https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Systems &amp; Tooling</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-      <img src="https://img.shields.io/badge/Fedora-1E293B?style=flat-square&logo=fedora&logoColor=51A2DA" alt="Fedora" />
-      <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Focus areas</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/P2P%20Networking-1E293B?style=flat-square" alt="P2P networking" />
-      <img src="https://img.shields.io/badge/Applied%20Cryptography-1E293B?style=flat-square" alt="Applied cryptography" />
-      <img src="https://img.shields.io/badge/Privacy%20Engineering-1E293B?style=flat-square" alt="Privacy engineering" />
-    </td>
-  </tr>
-</table>
+<sub><b>MOBILE</b></sub><br />
+<img src="https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+<img src="https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+
+<sub><b>SYSTEMS &amp; TOOLING</b></sub><br />
+<img src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Fedora-1E293B?style=flat-square&logo=fedora&logoColor=51A2DA" alt="Fedora" />
+<img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+
+<sub><b>FOCUS AREAS</b></sub><br />
+<img src="https://img.shields.io/badge/P2P%20Networking-1E293B?style=flat-square" alt="P2P networking" />
+<img src="https://img.shields.io/badge/Applied%20Cryptography-1E293B?style=flat-square" alt="Applied cryptography" />
+<img src="https://img.shields.io/badge/Privacy%20Engineering-1E293B?style=flat-square" alt="Privacy engineering" />
 
 <br />
 
 ## Contributions
 
-- **[Aves Gallery](https://github.com/deckerst/aves)** — Turkish localization for this open-source Android gallery and metadata explorer.
+**[Aves Gallery](https://github.com/deckerst/aves)**<br />
+Turkish localization for this open-source Android gallery and metadata explorer.
+
+**[BitChord](https://github.com/kushagrasinghx/BitChord)**<br />
+Turkish translation of nearly the entire app, an open-source YouTube Music client for Android.
 
 <br />
 
@@ -112,8 +101,8 @@ I'm currently saving up for a reliable development setup so I can keep building 
 
 Everything I publish is free and open source. If my work is useful to you, you can help fund the next tool.
 
-<a href="https://buymeacoffee.com/hasanbkaylan">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+<a href="https://buymeacoffee.com/hasanbkaylan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
 
 <br /><br />
