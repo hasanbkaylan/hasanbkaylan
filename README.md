@@ -45,6 +45,24 @@ Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and communi
   <tbody>
     <tr>
       <td width="100%">
+        <a href="https://github.com/localsend/localsend">
+          <img src="https://raw.githubusercontent.com/localsend/localsend/main/app/assets/img/logo-512.png" height="40" alt="LocalSend logo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/localsend/localsend"><b>LocalSend</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization fixes and improvements for the open-source, local-first cross-platform file sharing app.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100%">
         <a href="https://github.com/horizon-rust/horizon-site">
           <img src="https://avatars.githubusercontent.com/u/349008135?s=128&v=4" height="40" alt="Horizon logo" />
         </a>
