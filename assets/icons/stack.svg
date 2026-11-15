@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" role="img" aria-label="Tech Stack">
+  <title>Tech Stack</title>
+  <defs>
+    <linearGradient id="st-bd" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="st-hl" x1="0" y1="0" x2="0" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="st-fill" x1="16" y1="9" x2="16" y2="23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity=".04"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="31" height="31" rx="7.5" fill="#0F172A" stroke="url(#st-bd)"/>
+  <rect x=".5" y=".5" width="31" height="16" rx="7.5" fill="url(#st-hl)"/>
+  <g stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 7v3M16 7v3M19 7v3M13 22v3M16 22v3M19 22v3M7 13h3M7 16h3M7 19h3M22 13h3M22 16h3M22 19h3" stroke="#94A3B8"/>
+    <rect x="10" y="10" width="12" height="12" rx="2.2" fill="url(#st-fill)" stroke="#38BDF8"/>
+    <path d="m14.8 13.6-2.2 2.4 2.2 2.4M17.2 13.6l2.2 2.4-2.2 2.4" stroke="#F59E0B"/>
+  </g>
+</svg>
