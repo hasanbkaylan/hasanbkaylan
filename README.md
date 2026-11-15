@@ -1,10 +1,6 @@
-# Hasan Berat Kaylan
+<img src="assets/hero.svg" width="100%" alt="Hasan Berat Kaylan — Independent Open-Source Developer" />
 
-**Independent Open-Source Developer** · Local-First & Privacy-Focused Software
-
-![Mersin, Türkiye](https://img.shields.io/badge/Mersin%2C%20T%C3%BCrkiye-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
-![Fedora KDE](https://img.shields.io/badge/Fedora%20KDE-0F172A?style=flat-square&logo=fedora&logoColor=51A2DA)
-![Open to Collaboration](https://img.shields.io/badge/Open%20to%20Collaboration-0F172A?style=flat-square&logo=github&logoColor=white)
+**Mersin, Türkiye** · **Fedora KDE** · **Open to Collaboration**
 
 > I build local-first, privacy-respecting Android applications and web tools — no trackers, no ads, and no dependency on someone else's servers. Your data stays on your device and under your control.
 
@@ -26,12 +22,12 @@
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <b>Crossed</b> &nbsp;<img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In Development" /><br /><br />
+        <b>Crossed</b> &nbsp;<code>In Development</code><br /><br />
         Offline, peer-to-peer Android app that finds location intersections using on-device EXIF metadata and SHA-256 hashing.<br /><br />
         <code>Android</code> <code>Kotlin</code> <code>P2P</code> <code>Applied Cryptography</code>
       </td>
       <td width="50%" valign="top">
-        <b>BridgeMusic</b> &nbsp;<img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In Development" /><br /><br />
+        <b>BridgeMusic</b> &nbsp;<code>In Development</code><br /><br />
         Cross-platform playlist migration tool between music streaming services.<br /><br />
         <code>Android</code> <code>Web</code>
       </td>
@@ -104,20 +100,17 @@ Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and communi
 <h2><img src="assets/icons/stack.svg" width="26" height="26" align="absmiddle" alt="" /> Tech Stack</h2>
 
 **Mobile**  
-![Android](https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=3DDC84)
-![Kotlin](https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=54C5F8)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="30" alt="Android" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" height="30" alt="Kotlin" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg" height="30" alt="Flutter" />
 
 **Systems & Tooling**  
-![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-1E293B?style=flat-square&logo=fedora&logoColor=51A2DA)
-![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" height="30" alt="Linux" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg" height="30" alt="Fedora" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="30" alt="Git" />
 
 **Focus Areas**  
-![P2P Networking](https://img.shields.io/badge/P2P%20Networking-1E293B?style=flat-square)
-![Applied Cryptography](https://img.shields.io/badge/Applied%20Cryptography-1E293B?style=flat-square)
-![Privacy Engineering](https://img.shields.io/badge/Privacy%20Engineering-1E293B?style=flat-square)
-![Localization](https://img.shields.io/badge/Localization-1E293B?style=flat-square)
+`P2P Networking` · `Applied Cryptography` · `Privacy Engineering` · `Localization`
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -140,6 +133,8 @@ I'm currently saving up for a reliable development workstation so I can continue
 
 Everything I build and translate is free and open source. If my work has been useful to you, you can support future development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/hasanbkaylan)
+<a href="https://buymeacoffee.com/hasanbkaylan">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg" height="36" alt="Buy Me A Coffee" />
+</a>
 
 <sub>Local-First · Privacy-First · No Trackers, No Ads</sub>
