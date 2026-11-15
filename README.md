@@ -34,11 +34,45 @@ Cross-platform playlist migration tool between music streaming services.
 
 ## Open-Source Contributions
 
-I actively contribute human-reviewed **Turkish (`tr`)** localizations to privacy-friendly and community-driven open-source projects:
+Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and community-driven projects:
 
-- **[Horizon Site](https://github.com/horizon-rust/horizon-site)** — Turkish localization and native review for the official [Horizon](https://playhorizon.dev) (`Minecraft: Java Edition` rewritten in Rust) website.
-- **[Aves Gallery](https://github.com/deckerst/aves)** — Turkish localization for the open-source Android gallery and metadata explorer.
-- **[BitChord](https://github.com/kushagrasinghx/BitChord)** — Near-complete Turkish localization for the open-source Android YouTube Music client.
+<table>
+  <tbody>
+    <tr>
+      <td width="64" align="center" valign="middle">
+        <a href="https://github.com/horizon-rust/horizon-site">
+          <img src="https://avatars.githubusercontent.com/u/349008135?s=128&v=4" width="40" height="40" alt="Horizon logo" />
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/horizon-rust/horizon-site"><b>Horizon Site</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization and native review for the official <a href="https://playhorizon.dev">Horizon</a> website (Minecraft: Java Edition rewritten in Rust).
+      </td>
+    </tr>
+    <tr>
+      <td width="64" align="center" valign="middle">
+        <a href="https://github.com/deckerst/aves">
+          <img src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg" width="40" height="40" alt="Aves Gallery logo" />
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/deckerst/aves"><b>Aves Gallery</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization for the open-source Android gallery and metadata explorer built with Flutter.
+      </td>
+    </tr>
+    <tr>
+      <td width="64" align="center" valign="middle">
+        <a href="https://github.com/kushagrasinghx/BitChord">
+          <img src="https://raw.githubusercontent.com/kushagrasinghx/BitChord/main/Logo.png" width="40" height="40" alt="BitChord logo" />
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/kushagrasinghx/BitChord"><b>BitChord</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Near-complete Turkish localization for the open-source Android YouTube Music client.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
