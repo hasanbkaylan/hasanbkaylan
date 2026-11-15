@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 8" width="800" height="8" fill="none" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="dv-line" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#94A3B8" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#94A3B8" stop-opacity=".35"/>
+      <stop offset=".5" stop-color="#38BDF8" stop-opacity=".9"/>
+      <stop offset=".7" stop-color="#94A3B8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="3.25" width="800" height="1.5" rx=".75" fill="url(#dv-line)"/>
+  <path d="M400 .5 403.5 4 400 7.5 396.5 4 400 .5Z" fill="#F59E0B"/>
+  <circle cx="386" cy="4" r="1" fill="#38BDF8" fill-opacity=".8"/>
+  <circle cx="414" cy="4" r="1" fill="#38BDF8" fill-opacity=".8"/>
+</svg>
