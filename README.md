@@ -2,9 +2,6 @@
 
 **Independent Open-Source Developer** · Mersin, Türkiye · Open to Collaboration
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg" height="30" alt="Fedora KDE" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="30" alt="GitHub" />
-
 > I build local-first, privacy-respecting Android applications and web tools — no trackers, no ads, and no dependency on someone else's servers. Your data stays on your device and under your control.
 
 [Principles](#core-principles) · [Projects](#projects) · [Contributions](#open-source-contributions) · [Tech Stack](#tech-stack) · [Background](#background) · [Support](#support)
@@ -25,12 +22,12 @@
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <b>Crossed</b> &nbsp;<img src="https://api.github-store.org/v1/badge/static/2/1?label=In%20Development&icon=code" height="24" align="absmiddle" alt="In Development" /><br /><br />
+        <b>Crossed</b> &nbsp;<img src="https://api.github-store.org/v1/badge/static/2/1?label=In%20Development&icon=construction" height="24" align="absmiddle" alt="In Development" /><br /><br />
         Offline, peer-to-peer Android app that finds location intersections using on-device EXIF metadata and SHA-256 hashing.<br /><br />
         <code>Android</code> <code>Kotlin</code> <code>P2P</code> <code>Applied Cryptography</code>
       </td>
       <td width="50%" valign="top">
-        <b>BridgeMusic</b> &nbsp;<img src="https://api.github-store.org/v1/badge/static/2/1?label=In%20Development&icon=code" height="24" align="absmiddle" alt="In Development" /><br /><br />
+        <b>BridgeMusic</b> &nbsp;<img src="https://api.github-store.org/v1/badge/static/2/1?label=In%20Development&icon=construction" height="24" align="absmiddle" alt="In Development" /><br /><br />
         Cross-platform playlist migration tool between music streaming services.<br /><br />
         <code>Android</code> <code>Web</code>
       </td>
@@ -113,10 +110,10 @@ Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and communi
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="30" alt="Git" />
 
 **Focus Areas**  
-<img src="https://api.github-store.org/v1/badge/static/8/1?label=P2P%20Networking&icon=code" height="30" alt="P2P Networking" />
-<img src="https://api.github-store.org/v1/badge/static/7/1?label=Applied%20Cryptography&icon=code" height="30" alt="Applied Cryptography" />
-<img src="https://api.github-store.org/v1/badge/static/5/1?label=Privacy%20Engineering&icon=code" height="30" alt="Privacy Engineering" />
-<img src="https://api.github-store.org/v1/badge/static/6/1?label=Localization&icon=code" height="30" alt="Localization" />
+<img src="https://api.github-store.org/v1/badge/static/8/1?label=P2P%20Networking&icon=hub" height="30" alt="P2P Networking" />
+<img src="https://api.github-store.org/v1/badge/static/7/1?label=Applied%20Cryptography&icon=lock" height="30" alt="Applied Cryptography" />
+<img src="https://api.github-store.org/v1/badge/static/5/1?label=Privacy%20Engineering&icon=shield" height="30" alt="Privacy Engineering" />
+<img src="https://api.github-store.org/v1/badge/static/6/1?label=Localization&icon=translate" height="30" alt="Localization" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
