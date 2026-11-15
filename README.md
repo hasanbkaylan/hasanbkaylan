@@ -8,9 +8,11 @@
 
 > I build local-first, privacy-respecting Android applications and web tools — no trackers, no ads, and no dependency on someone else's servers. Your data stays on your device and under your control.
 
+[Principles](#core-principles) · [Projects](#projects) · [Contributions](#open-source-contributions) · [Tech Stack](#tech-stack) · [Background](#background) · [Support](#support)
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2><img src="assets/icons/principles.svg" width="24" height="24" alt="" /> Core Principles</h2>
+<h2><img src="assets/icons/principles.svg" width="26" height="26" align="absmiddle" alt="" /> Core Principles</h2>
 
 - **Local-First** — Software works offline by default; data lives on your device, not on a central server.
 - **Privacy by Design** — Zero trackers, zero ads, zero telemetry. Cryptography protects users instead of profiling them.
@@ -18,7 +20,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2><img src="assets/icons/projects.svg" width="24" height="24" alt="" /> Projects</h2>
+<h2><img src="assets/icons/projects.svg" width="26" height="26" align="absmiddle" alt="" /> Projects</h2>
 
 <table>
   <tbody>
@@ -26,11 +28,11 @@
       <td width="50%" valign="top">
         <b>Crossed</b> &nbsp;<img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In Development" /><br /><br />
         Offline, peer-to-peer Android app that finds location intersections using on-device EXIF metadata and SHA-256 hashing.<br /><br />
-        <code>Android</code> <code>Kotlin</code> <code>P2P</code>
+        <code>Android</code> <code>Kotlin</code> <code>P2P</code> <code>Applied Cryptography</code>
       </td>
       <td width="50%" valign="top">
         <b>BridgeMusic</b> &nbsp;<img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In Development" /><br /><br />
-        Cross-platform playlist migration tool between music streaming platforms.<br /><br />
+        Cross-platform playlist migration tool between music streaming services.<br /><br />
         <code>Android</code> <code>Web</code>
       </td>
     </tr>
@@ -39,48 +41,59 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2><img src="assets/icons/translate.svg" width="24" height="24" alt="" /> Open-Source Contributions</h2>
+<h2><img src="assets/icons/contributions.svg" width="26" height="26" align="absmiddle" alt="" /> Open-Source Contributions</h2>
 
 Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and community-driven projects:
 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="33%">
-        <br />
+      <td width="100%">
         <a href="https://github.com/horizon-rust/horizon-site">
-          <img src="https://avatars.githubusercontent.com/u/349008135?s=128&v=4" width="52" height="52" alt="Horizon logo" />
+          <img src="https://avatars.githubusercontent.com/u/349008135?s=128&v=4" height="40" alt="Horizon logo" />
         </a>
-        <br /><br />
-        <a href="https://github.com/horizon-rust/horizon-site"><b>Horizon Site</b></a><br />
-        <img src="https://img.shields.io/badge/Turkish%20(tr)-0F172A?style=flat-square" alt="Turkish (tr)" />
-        <br /><br />
-        <sub>Official <a href="https://playhorizon.dev">Horizon</a> website localization &amp; native review.</sub>
-        <br /><br />
       </td>
-      <td align="center" valign="top" width="33%">
-        <br />
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/horizon-rust/horizon-site"><b>Horizon Site</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization and native review for the official <a href="https://playhorizon.dev">Horizon</a> website (Minecraft: Java Edition rewritten in Rust).
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100%">
         <a href="https://github.com/deckerst/aves">
-          <img src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg" width="52" height="52" alt="Aves Gallery logo" />
+          <img src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg" height="40" alt="Aves Gallery logo" />
         </a>
-        <br /><br />
-        <a href="https://github.com/deckerst/aves"><b>Aves Gallery</b></a><br />
-        <img src="https://img.shields.io/badge/Turkish%20(tr)-0F172A?style=flat-square" alt="Turkish (tr)" />
-        <br /><br />
-        <sub>Open-source Android gallery and metadata explorer.</sub>
-        <br /><br />
       </td>
-      <td align="center" valign="top" width="33%">
-        <br />
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/deckerst/aves"><b>Aves Gallery</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization for the open-source Android gallery and metadata explorer built with Flutter.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100%">
         <a href="https://github.com/kushagrasinghx/BitChord">
-          <img src="https://raw.githubusercontent.com/kushagrasinghx/BitChord/main/Logo.png" width="52" height="52" alt="BitChord logo" />
+          <img src="https://raw.githubusercontent.com/kushagrasinghx/BitChord/main/Logo.png" height="36" alt="BitChord logo" />
         </a>
-        <br /><br />
-        <a href="https://github.com/kushagrasinghx/BitChord"><b>BitChord</b></a><br />
-        <img src="https://img.shields.io/badge/Turkish%20(tr)-0F172A?style=flat-square" alt="Turkish (tr)" />
-        <br /><br />
-        <sub>Open-source Android YouTube Music client.</sub>
-        <br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kushagrasinghx/BitChord"><b>BitChord</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Near-complete Turkish localization for the open-source Android YouTube Music client.
       </td>
     </tr>
   </tbody>
@@ -88,7 +101,7 @@ Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and communi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2><img src="assets/icons/stack.svg" width="24" height="24" alt="" /> Tech Stack</h2>
+<h2><img src="assets/icons/stack.svg" width="26" height="26" align="absmiddle" alt="" /> Tech Stack</h2>
 
 **Mobile**  
 ![Android](https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=3DDC84)
@@ -108,7 +121,7 @@ Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and communi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2><img src="assets/icons/story.svg" width="24" height="24" alt="" /> Background</h2>
+<h2><img src="assets/icons/background.svg" width="26" height="26" align="absmiddle" alt="" /> Background</h2>
 
 <details>
 <summary><b>Why local-first?</b></summary>
@@ -123,7 +136,7 @@ I'm currently saving up for a reliable development workstation so I can continue
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2><img src="assets/icons/support.svg" width="24" height="24" alt="" /> Support</h2>
+<h2><img src="assets/icons/support.svg" width="26" height="26" align="absmiddle" alt="" /> Support</h2>
 
 Everything I build and translate is free and open source. If my work has been useful to you, you can support future development:
 
