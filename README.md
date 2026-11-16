@@ -81,6 +81,42 @@ Human-reviewed **Turkish (`tr`)** localizations for privacy-friendly and communi
   <tbody>
     <tr>
       <td width="100%">
+        <a href="https://github.com/sameerasw/essentials">
+          <img src="https://raw.githubusercontent.com/sameerasw/essentials/main/fastlane/metadata/android/en-US/images/icon.png" height="40" alt="Essentials logo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/sameerasw/essentials"><b>Essentials</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization for the open-source Android tools, mods, and customization app.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100%">
+        <a href="https://github.com/vivizzz007/vivi-music">
+          <img src="https://vivimusic.mkmdevilmi.workers.dev/appicon/icon.png" height="40" alt="VIVI Music logo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vivizzz007/vivi-music"><b>VIVI Music</b></a> &nbsp;<code>Turkish (tr)</code><br />
+        Turkish localization updates for the open-source, privacy-first Material 3 YouTube Music client for Android.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100%">
         <a href="https://github.com/deckerst/aves">
           <img src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg" height="40" alt="Aves Gallery logo" />
         </a>
